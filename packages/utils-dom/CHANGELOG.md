@@ -1,3 +1,20 @@
+# 2.2.4 (June 8, 2023)
+
+## Chores
+
+* [[`a44ec65bd0`](https://github.com/webhintio/hint/commit/a44ec65bd02078e7d6110ebe0e6ee1b107529c87)] - Upgrade: Bump eslint-plugin-import from 2.26.0 to 2.27.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5481`](https://github.com/webhintio/hint/issues/5481)).
+* [[`5f2e5c418b`](https://github.com/webhintio/hint/commit/5f2e5c418b8d7d61e07d7e3e9655cc5ccb094979)] - Upgrade: Bump rimraf from 3.0.2 to 5.0.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5550`](https://github.com/webhintio/hint/issues/5550)).
+* [[`4693c62338`](https://github.com/webhintio/hint/commit/4693c62338e2850e101a6c6d66fee47f1d5d5b4e)] - Upgrade: Bump eventemitter2 from 6.4.5 to 6.4.9 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5546`](https://github.com/webhintio/hint/issues/5546)).
+
+
+# 2.2.3 (March 16, 2023)
+
+## Chores
+
+* [[`5ee0536263`](https://github.com/webhintio/hint/commit/5ee05362636aac7e03af9a7fcb0f8dcc32909c82)] - Upgrade: Bump jsdom from 20.0.3 to 21.1.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5409`](https://github.com/webhintio/hint/issues/5409)).
+* [[`38589f7afe`](https://github.com/webhintio/hint/commit/38589f7afec38da0d148874c9cde895fcdfc24f4)] - Upgrade: Bump jsdom and @types/jsdom (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5389`](https://github.com/webhintio/hint/issues/5389)).
+
+
 # 2.2.2 (October 6, 2022)
 
 ## Bug fixes / Improvements
